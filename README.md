@@ -5,3 +5,4 @@ Esta es la cuarta linea
 SOLUCIONAMOS EL CONFLICTO
 Prueba reset 1
 Prueba de reset 2
+Prueba de reset 3
